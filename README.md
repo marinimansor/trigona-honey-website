@@ -1,4 +1,4 @@
-# Trigona Bee Honey Website (Kelulut Honey)
+# DZhoney Website (Kelulut Honey)
 
 A premium, responsive single-page landing website designed to sell pure, organic Trigona (Kelulut) stingless bee honey harvested from a local family orchard in Malaysia.
 
@@ -30,8 +30,8 @@ trigona-honey-website/
 ├── README.md        # Project documentation
 └── assets/
     ├── bee_harvest.png     # Macro photo of Trigona bees harvesting honey
-    ├── honey_jars.jpg      # User product image showing glass honey jars
-    ├── honey_bottles.png   # User product image showing 500g plastic bottles
+    ├── honey_jars.jpg      # Glass jars used for raw honey collection during harvest (not for sale)
+    ├── honey_bottles.png   # 500g plastic bottles for sale
     └── qr_code.png         # Cropped WhatsApp contact card QR code widget
 ```
 
